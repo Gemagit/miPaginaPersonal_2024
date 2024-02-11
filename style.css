@@ -1,8 +1,8 @@
 
 * {
-    font-family: 'Gill Sans MT';
+    font-family:'Courier New', Courier, monospace;
     line-height: 120%;
-    font-size: 1.2rem; /* 1.2x16px */
+    font-size: 1rem; /* 1.2x16px */
     scroll-behavior: smooth;
     scroll-margin-top: 100px;
     transition: 0.5s ease;
@@ -14,15 +14,27 @@ body {
 }
 
 
+nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
 .logo-container {
     display: flex;
     align-items: center;
-  }
-  .logo {
-    width: 50px; 
+    margin-block: 1em;
+}
+
+
+.logo {
+    width: 40px; 
     height: auto; 
     margin-right: 10px; 
-  }
+}
+
+
 
 
 .mainmenubtn {
@@ -30,13 +42,15 @@ body {
     color: rgb(5, 5, 5);
     border: none;
     cursor: pointer;
-    padding:5px ;
-    margin: 10px 10px 10px 10px ;
+    padding:5px;
+    margin: 1em;
 }
+
 
 .mainmenubtn:hover {
     background-color: white;
-    }
+}
+
 
 .dropdown {
     position: relative;
@@ -45,37 +59,37 @@ body {
 
 
 .dropdown-child {
-    min-width: 100px;
     background-color:white ;
     display: none;
+    text-align: center;
 }
 
 
 .dropdown-child a {
     color: black;
-    padding: 5px;
     text-decoration: none;
     display: block;
+    margin-block: 1em;
 }
 
 
 .dropdown:hover .dropdown-child {
     display: block;
+    text-align: center;
 }
 
 li {
     list-style: none;
-    padding: 10px ;
+    text-align: center;
 }
 
 
 h5 {
-    font-family: 'Gill Sans MT';
     font-size: medium;
     color: rgb(79, 78, 78);
     padding:30px ;
     margin: 2px 2px 2px 2px;
-    text-align: right;
+    text-align: center;
 }
 
 
@@ -84,13 +98,16 @@ h5 {
     align-items: center;
     margin: 10px 10px 10px 10px ;
     background-color: white;
+    padding-top: 2em;
 }
 
 
 .picture {
+    display:flex;
+    align-items: center;
     background-color:white;
     text-align: center;
-    width: 90%;
+    width: 60%;
     margin:  10px;
     padding:10px;
 }
@@ -100,8 +117,7 @@ h5 {
     background-color: white;
     margin: 10px;
     padding:10px;
-    line-height: 120%;
-    font: cottonwood;
+    line-height:20%;
     font-size: 12pt;
     text-align: justify;
 }
@@ -167,7 +183,8 @@ a {
     margin:auto;
     max-width: 400px;
     border-radius: 1 em;
-    padding: 10px;
+    padding-top:  80px;
+    font-size:small;
 }
 
 
@@ -180,8 +197,7 @@ a {
 
 
 .form_imput {
-    font-family: inherit;
-    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
     padding: 108px 16px;
     outline: none;
     border: none;
@@ -192,13 +208,10 @@ a {
 
 .title {
     text-align: left;
-    font-size: 1rem;
     margin-bottom: 10px;
 }
 
-.form_cta {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
+
 
 @media only screen and (min-width: 700px) {
   
@@ -234,7 +247,6 @@ h5 {
     color: rgb(79, 78, 78);
     padding:20px ;
     margin: 10px 10px 10px 10px ;
-    text-align: right;
 }
 
 
@@ -273,7 +285,6 @@ h5 {
     color: rgb(79, 78, 78);
     padding:20px ;
     margin: 10px 10px 10px 10px ;
-    text-align: right;
 }
 
 }
