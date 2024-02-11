@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/assets/camara (1).png">
+    <link rel="stylesheet" href="/style.css">
+    <title>Mi Página Personal</title>
+</head>
+
+<body>
+
+    <nav>
+        <div class="dropdown"><li class=" even">
+            <button class="mainmenubtn">MENU</button><li class=" odd">
+            <section class="dropdown-child"><li class=" even">
+              <a href="/index.html">Home</a>
+              <a href="/pages/about.html">About</a>
+              <a href="/pages/adversiting.html">Adversiting</a>
+              <a href="/pages/portraits.html">Portraits</a>
+              <a href="/pages/covers.html">Covers</a>
+              <a href="/pages/wedding.html">Wedding</a>
+              <a href="#">Contact</a>
+            </section>
+          </div>
+    </nav>
+     
+    <section>
+        <form class="form">
+            <div class="form_container">
+            <p class="title">hi, feel free to use the form below to get in touch or email me directly at <a href="https://thepandabearshow.com/photographer/gema-millan/">gemitaphotographer@gmail.com</a></p>
+              <label for="name" class="form_input">Name:</label>
+              <input 
+                type="texto" 
+                placeholder="Introduce your name"
+                required
+               />
+
+              <label for="lname" class="form_input">Surnames:</label>
+              <input 
+                type="texto" 
+                placeholder="Introduce your last name"
+                required
+                />
+
+              <label for="lname" class="form_input">Mail:</label>
+              <input 
+                type="texto" 
+                placeholder="Introduce your mail"
+                minlength="3"
+                maxlenght="30"
+                required
+                />
+
+              <textarea for="message" 
+                type="texto"
+                placeholder="Introduce a message" 
+                class="message"></textarea>
+              <input type="submit" value="Submit" class="form-cta">
+            
+            </div>
+        </form>
+    </section>
+    
+</body>
+</html>

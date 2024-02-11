@@ -1,0 +1,279 @@
+
+* {
+    font-family: 'Gill Sans MT';
+    line-height: 120%;
+    font-size: 1.2rem; /* 1.2x16px */
+    scroll-behavior: smooth;
+    scroll-margin-top: 100px;
+    transition: 0.5s ease;
+  }
+  
+body {
+    background-color: white;
+    
+}
+
+
+.logo-container {
+    display: flex;
+    align-items: center;
+  }
+  .logo {
+    width: 50px; 
+    height: auto; 
+    margin-right: 10px; 
+  }
+
+
+.mainmenubtn {
+    background-color: white;
+    color: rgb(5, 5, 5);
+    border: none;
+    cursor: pointer;
+    padding:5px ;
+    margin: 10px 10px 10px 10px ;
+}
+
+.mainmenubtn:hover {
+    background-color: white;
+    }
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-child {
+    min-width: 100px;
+    background-color:white ;
+    display: none;
+}
+
+
+.dropdown-child a {
+    color: black;
+    padding: 5px;
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown:hover .dropdown-child {
+    display: block;
+}
+
+li {
+    list-style: none;
+    padding: 10px ;
+}
+
+
+h5 {
+    font-family: 'Gill Sans MT';
+    font-size: medium;
+    color: rgb(79, 78, 78);
+    padding:30px ;
+    margin: 2px 2px 2px 2px;
+    text-align: right;
+}
+
+
+.about {
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 10px 10px 10px 10px ;
+    background-color: white;
+}
+
+
+.picture {
+    background-color:white;
+    text-align: center;
+    width: 90%;
+    margin:  10px;
+    padding:10px;
+}
+
+
+.texto {
+    background-color: white;
+    margin: 10px;
+    padding:10px;
+    line-height: 120%;
+    font: cottonwood;
+    font-size: 12pt;
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(96, 154, 160);
+    font-size: medium;
+}
+
+
+#expSection > article > img {
+    display: block;
+  }
+
+  
+#expSection {
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  
+#expSection > article:hover .overlay {
+    opacity: 0.8;
+  }
+
+  
+#expSection > article {
+    position: relative;
+    margin: 10px 10px;
+    padding:20px,
+  }
+  
+
+.overlay {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    transition: 0.5s ease;
+    background-color: grey;
+    opacity: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+  
+   
+
+
+.form {
+    background-color: white;
+    display: grid;
+    width: 70%;
+    margin:auto;
+    max-width: 400px;
+    border-radius: 1 em;
+    padding: 10px;
+}
+
+
+.form_container {
+    display: grid;
+    width: 100%;
+    gap:1em;
+    grid-auto-columns: 100%;
+}
+
+
+.form_imput {
+    font-family: inherit;
+    font-size: 1rem;
+    padding: 108px 16px;
+    outline: none;
+    border: none;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+
+.title {
+    text-align: left;
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+.form_cta {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+@media only screen and (min-width: 700px) {
+  
+ 
+.texto {
+    background-color: white;
+    margin: 30px;
+    padding:30px;
+    font: arial;
+    font-size: 12pt;
+    text-align: justify;
+}
+
+.picture {
+    background-color: white;
+    width: 80%;
+    padding:40px 40px 40px 40px;
+    margin: 20px 20px 20px 20px ;
+}
+
+.about {
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 10px 10px 10px 10px ;
+    margin: 10px 10px 10px 10px ;
+    background-color: white;
+}
+
+h5 {
+    padding: 20px;
+    font-family: 'Gill Sans MT';
+    font-size: medium;
+    color: rgb(79, 78, 78);
+    padding:20px ;
+    margin: 10px 10px 10px 10px ;
+    text-align: right;
+}
+
+
+  }
+  
+  @media only screen and (min-width: 1200px) {
+
+  .texto {
+    background-color: white;
+    margin: 30px;
+    padding:30px;
+    font: arial;
+    font-size: 12pt;
+    text-align: justify;
+}
+
+.picture {
+    background-color: white;
+    width: 80%;
+    padding:40px 40px 40px 40px;
+    margin: 20px 20px 20px 20px ;
+}
+
+.about {
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 20px 20px 20px 20px ;
+    margin: 10px 10px 10px 10px ;
+    background-color: white;
+}
+
+h5 {
+    padding: 20px;
+    font-family: 'Gill Sans MT';
+    font-size: medium;
+    color: rgb(79, 78, 78);
+    padding:20px ;
+    margin: 10px 10px 10px 10px ;
+    text-align: right;
+}
+
+}
