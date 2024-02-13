@@ -1,7 +1,7 @@
 
 * {
     font-family:'Courier New', Courier, monospace;
-    line-height: 120%;
+    line-height: 100%;
     font-size: 1rem; /* 1.2x16px */
     scroll-behavior: smooth;
     scroll-margin-top: 100px;
@@ -95,7 +95,6 @@ h5 {
 
 .about {
     flex-wrap: wrap;
-    align-items: center;
     justify-content: center;
     margin: 10px 10px 10px 10px ;
     background-color: white;
@@ -105,7 +104,6 @@ h5 {
 
 .picture {
     display:flex;
-    align-items: center;
     background-color:white;
     text-align: center;
     width: 95%;
@@ -114,12 +112,13 @@ h5 {
 
 
 .texto {
+    text-align:justify;
     background-color: white;
     margin: 10px;
+    margin-bottom: 20px;
     padding:10px;
-    line-height:20%;
+    line-height:10%;
     font-size: 12pt;
-    text-align: justify;
 }
 
 a {
