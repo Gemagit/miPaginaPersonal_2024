@@ -38,6 +38,7 @@
               <label for="name" class="form_input">Name:</label>
               <input 
                 type="texto" 
+                name="name"
                 placeholder="Introduce your name"
                 required
                />
@@ -45,13 +46,15 @@
               <label for="lname" class="form_input">Surnames:</label>
               <input 
                 type="texto" 
+                name="lname"
                 placeholder="Introduce your last name"
                 required
                 />
 
-              <label for="lname" class="form_input">Mail:</label>
+              <label for="email" class="form_input">Mail:</label>
               <input 
                 type="texto" 
+                name="email"
                 placeholder="Introduce your mail"
                 minlength="3"
                 maxlenght="30"
@@ -60,13 +63,15 @@
 
               <textarea for="message" 
                 type="texto"
+                name="message"
                 placeholder="Introduce a message" 
-                class="message"></textarea>
+                class="message">
+              </textarea>
               <input type="submit" value="Submit" class="form-cta">
             
             </div>
         </form>
     </section>
-    
+    <script src="../script.js"></script>
 </body>
 </html>
