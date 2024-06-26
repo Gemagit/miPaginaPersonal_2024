@@ -17,16 +17,16 @@ Hay que destacar la importancia que tiene hoy en día **"mobile-first"**, con el
 
 ### MOBILE
 
-
+![mobile](https://github.com/Gemagit/miPaginaPersonal_2024/assets/143506667/4bffafdb-9e59-4357-91e8-75a359055177)
 
 
 ### IPAD
 
-
+![desktop](https://github.com/Gemagit/miPaginaPersonal_2024/assets/143506667/c4652739-7ae0-40b6-bfb3-3677f337051a)
 
 ### DESKTOP
 
-
+![ipad](https://github.com/Gemagit/miPaginaPersonal_2024/assets/143506667/7268574b-0887-4939-a1ab-71ae01ee3293)
 
 ## 2. Tecnologies
 
