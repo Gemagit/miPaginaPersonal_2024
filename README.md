@@ -59,4 +59,4 @@ He optado por un diseño sencillo con un fondo blanco y he utilizado una tipogra
 
 ![diseño](https://github.com/Gemagit/miPaginaPersonal_2024/assets/143506667/bbae0f94-7bcc-4dac-a3fb-67310f885873)
 
-## [Pulsa aquí para ver la App]([https://gemagit.github.io/quiz2.0/](https://gemagit.github.io/miPaginaPersonal_2024/))
+## [Pulsa aquí para ver la App][https://gemagit.github.io/quiz2.0/](https://gemagit.github.io/miPaginaPersonal_2024/)
