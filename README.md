@@ -38,15 +38,13 @@ Las tecnologías usadas en esta app son las siguientes:
 
 ## 3. Features
 
-Desafíos:
-Aprender a usar flexbox para alinear y distribuir los elementos en la página de manera efectiva.
-Asegurarme de que el diseño fuera completamente responsivo.
-Aprendizajes:
-Mejoré mis habilidades en HTML y CSS, especialmente en el uso de flexbox y grid.
-Aprendí sobre la importancia de la accesibilidad web y cómo implementar prácticas básicas para mejorar la experiencia del usuario.
+Durante el desarrollo de mi primera aplicación web, he adquirido un conocimiento profundo de HTML y CSS. He aprendido a usar el pseudo-clase hover para crear efectos visuales interactivos y a diseñar un menú desplegable sin necesidad de utilizar JavaScript, lo que me ha permitido comprender mejor las capacidades avanzadas de CSS.
 
-Nuevas Tecnologías:
-Aprender JavaScript para agregar interactividad a mi sitio.
+![hover](https://github.com/Gemagit/miPaginaPersonal_2024/assets/143506667/8dd9feca-7b32-406f-8b54-2dd0f917edf8)
+
+![menu](https://github.com/Gemagit/miPaginaPersonal_2024/assets/143506667/e9066d9f-042a-4dfb-bb1b-fa23c177398c)
+
+Una de las habilidades más valiosas que he desarrollado es el uso de flexbox, lo cual me ha facilitado la alineación y distribución de los elementos de la página de manera eficiente. A lo largo del proceso, he mejorado significativamente mis habilidades en HTML y CSS, especialmente en el uso de flexbox y grid. Además, he aprendido sobre la importancia de la accesibilidad web y cómo implementar prácticas básicas para mejorar la experiencia del usuario, asegurándome de que mi sitio sea inclusivo y utilizable para todos.
 
 ## 4. Design
 
