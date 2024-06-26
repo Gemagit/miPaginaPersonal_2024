@@ -58,3 +58,5 @@ En mi aplicación, he incluido una sección "About" donde hablo un poco sobre m�
 He optado por un diseño sencillo con un fondo blanco y he utilizado una tipografía similar a la de una máquina de escribir para darle un toque único y personal. Me he centrado mucho en que la web sea funcional, asegurándome de que la navegación sea eficiente y sencilla para los usuarios.
 
 ![diseño](https://github.com/Gemagit/miPaginaPersonal_2024/assets/143506667/bbae0f94-7bcc-4dac-a3fb-67310f885873)
+
+## [Pulsa aquí para ver la App]([https://gemagit.github.io/quiz2.0/](https://gemagit.github.io/miPaginaPersonal_2024/))
