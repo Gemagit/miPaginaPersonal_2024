@@ -1,6 +1,6 @@
 # miPaginaPersonal_2024
 
-
+Este es mi primer proyecto web, un sitio muy sencillo realizado exclusivamente con HTML y CSS. A pesar de su simplicidad, me he esforzado por seguir buenas prácticas de desarrollo y mantener un código limpio y organizado. Este enfoque no solo facilita el mantenimiento y la escalabilidad del sitio, sino que también garantiza que otros desarrolladores puedan entender y colaborar en el proyecto fácilmente. Me siento orgullosa de los logros alcanzados y emocionada por continuar aprendiendo y mejorando mis habilidades en desarrollo web.
 
 ## Introduction
 
@@ -55,3 +55,6 @@ En mi aplicación, he incluido una sección "About" donde hablo un poco sobre m�
 
 ## 4. Design
 
+He optado por un diseño sencillo con un fondo blanco y he utilizado una tipografía similar a la de una máquina de escribir para darle un toque único y personal. Me he centrado mucho en que la web sea funcional, asegurándome de que la navegación sea eficiente y sencilla para los usuarios.
+
+![diseño](https://github.com/Gemagit/miPaginaPersonal_2024/assets/143506667/bbae0f94-7bcc-4dac-a3fb-67310f885873)
