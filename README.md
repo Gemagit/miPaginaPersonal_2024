@@ -38,13 +38,20 @@ Las tecnologías usadas en esta app son las siguientes:
 
 ## 3. Features
 
-Durante el desarrollo de mi primera aplicación web, he adquirido un conocimiento profundo de HTML y CSS. He aprendido a usar el pseudo-clase hover para crear efectos visuales interactivos y a diseñar un menú desplegable sin necesidad de utilizar JavaScript, lo que me ha permitido comprender mejor las capacidades avanzadas de CSS.
+Durante el desarrollo de mi primera aplicación web, he adquirido un conocimiento profundo de HTML y CSS. He aprendido a usar el pseudo-clase hover para crear efectos visuales interactivos y a diseñar un menú desplegable sin necesidad de utilizar JavaScript, lo que me ha permitido comprender mejor las capacidades avanzadas de CSS. Cuando haces click en alguna de las opciones del menú, te redirige a un link con las distintas modalidades de fotografía.
 
 ![hover](https://github.com/Gemagit/miPaginaPersonal_2024/assets/143506667/8dd9feca-7b32-406f-8b54-2dd0f917edf8)
 
 ![menu](https://github.com/Gemagit/miPaginaPersonal_2024/assets/143506667/e9066d9f-042a-4dfb-bb1b-fa23c177398c)
 
 Una de las habilidades más valiosas que he desarrollado es el uso de flexbox, lo cual me ha facilitado la alineación y distribución de los elementos de la página de manera eficiente. A lo largo del proceso, he mejorado significativamente mis habilidades en HTML y CSS, especialmente en el uso de flexbox y grid. Además, he aprendido sobre la importancia de la accesibilidad web y cómo implementar prácticas básicas para mejorar la experiencia del usuario, asegurándome de que mi sitio sea inclusivo y utilizable para todos.
+
+En mi aplicación, he incluido una sección "About" donde hablo un poco sobre mí y mi pasión por la fotografía, y un formulario de contacto que permite a los visitantes comunicarse conmigo fácilmente.
+
+![formulario](https://github.com/Gemagit/miPaginaPersonal_2024/assets/143506667/6a2ae525-7bd9-4a29-bdac-a8e7c93e2a3b)
+
+![about](https://github.com/Gemagit/miPaginaPersonal_2024/assets/143506667/90784702-a530-4570-b691-8363b5ee8128)
+
 
 ## 4. Design
 
